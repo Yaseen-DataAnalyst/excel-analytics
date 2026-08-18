@@ -42,7 +42,9 @@
 -------------
   - نظرة عامة على لوحة التحكم: screenshots/dashboard_overview.png
   - مثال على تفاعل Slicer: screenshots/slicer_example.png
-
+  - معاينة التقرير report-preview.png
+  - بطاقات مؤشرات الأداء والجدول المحوري Interactive Slicers & PivotCharts.png
+    
 أمثلة على الرؤى المستخلصة
 ---------------------------
   - المنتج الأعلى مبيعاً هو Laptop (بإجمالي 684 ألف).
